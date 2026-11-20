@@ -1,0 +1,13 @@
+{
+  "dataset_name": "inmuebles_prediccion",
+  "current_version": "v1.0.0",
+  "file": "data/dataset_v1.0.0.csv",
+  "created_at": "2026-11-20",
+  "schema": ["area_m2", "habitaciones", "antiguedad_anios", "precio_usd"],
+  "changelog": [
+    {
+      "version": "v1.0.0",
+      "description": "Dataset inicial limpio para inferencia y validación del endpoint /predict"
+    }
+  ]
+}
